@@ -1,0 +1,12 @@
+[submodule "Factory-Method"]
+	path = Factory-Method
+	url = https://github.com/Trush-Maryna/Factory-Method
+[submodule "Flyweight"]
+	path = Flyweight
+	url = https://github.com/Trush-Maryna/Flyweight
+[submodule "ReadersWriterLock"]
+	path = ReadersWriterLock
+	url = https://github.com/Trush-Maryna/ReadersWriterLock
+[submodule "Scheduled-task"]
+	path = Scheduled-task
+	url = https://github.com/Trush-Maryna/Scheduled-task
